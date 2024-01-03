@@ -1,0 +1,2 @@
+# Kodlar
+ visual studio kodları
